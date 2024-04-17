@@ -8,7 +8,7 @@ We deploy the crowdsourcing platform that collects cognitive similarity data fro
 * Luong Vuong Nguyen, and Jason J. Jung. SABRE: Cross-domain Crowdsourcing Platform for Recommendation Services. In Proceeding of the 15th International Symposium on Intelligent Distributed Computing (IDC 2022) Sep 14-16, 2022, Bremen, Germany. DOI: https://doi.org/10.1007/978-3-031-29104-3_24
 * Luong Vuong Nguyen, and Jason J. Jung. Exploiting Cross-domain Cognition for User Clustering-based Recommendation Services. Under review
 
-## How to run OMS
+## How to run SABRE
 ### Requirements
 ```
 IDE Netbean 12
